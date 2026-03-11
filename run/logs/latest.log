@@ -1,0 +1,12 @@
+[12:37:29] [ServerMain/INFO]: [bootstrap] Running Java 21 (Java HotSpot(TM) 64-Bit Server VM 21.0.10+8-LTS-217; Oracle Corporation null) on Windows 11 10.0 (amd64)
+[12:37:29] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[12:37:31] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[12:37:32] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Remapping server...
+[12:37:39] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Done remapping server in 6786ms.
+[12:37:39] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'C:\Users\elias\Desktop\server\plugins\devPlugin-all.jar'...
+[12:37:39] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'C:\Users\elias\Desktop\server\plugins\devPlugin-all.jar' in 112ms.
+[12:37:39] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[12:37:39] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - devPlugin (1.0-SNAPSHOT)
+[12:37:44] [ServerMain/WARN]: Failed to load eula.txt
+[12:37:44] [ServerMain/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
